@@ -35,9 +35,6 @@ Le Dashboard centralise les indicateurs de performance (KPI) grâce à une inté
 
 ### Innovation : Chatbot Intelligent
 WEST_PMS intègre un **Chatbot IA** (OpenAI API) accessible via le menu, permettant aux ingénieurs d'interroger le système en langage naturel pour obtenir des informations sur les projets ou des rapports de synthèse.
-<p align="center">
-  <img src="assets/uploads/menu.png" width="850" alt="Menu et Chatbot">
-</p>
 
 ---
 
